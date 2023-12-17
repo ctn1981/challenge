@@ -18,7 +18,7 @@ body {
 
 main {
     width: 58%;
-    background-image: url("C:\Users\tranngocc\OneDrive - World Health Organization\Desktop\base-apparel-coming-soon-master\images\bg-pattern-desktop.svg");
+    background-image: url(/images/bg-pattern-desktop.svg);
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -137,7 +137,7 @@ form.error small {
 }
 
 .hero-desk {
-    background-image: url("C:\Users\tranngocc\OneDrive - World Health Organization\Desktop\base-apparel-coming-soon-master\images\hero-desktop.jpg");
+    background-image: url(/images/hero-desktop.jpg);
     width: 43%;
     min-height: 100vh;
     background-size: cover;
